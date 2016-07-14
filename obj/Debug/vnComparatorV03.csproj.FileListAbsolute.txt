@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\vnComparatorV03\vnComparatorV03\bin\Debug\vnComparatorV03.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\vnComparatorV03\vnComparatorV03\bin\Debug\vnComparatorV03.exe
+c:\users\admin\documents\visual studio 2013\Projects\vnComparatorV03\vnComparatorV03\bin\Debug\vnComparatorV03.pdb
+c:\users\admin\documents\visual studio 2013\Projects\vnComparatorV03\vnComparatorV03\obj\Debug\vnComparatorV03.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\vnComparatorV03\vnComparatorV03\obj\Debug\vnComparatorV03.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\vnComparatorV03\vnComparatorV03\obj\Debug\vnComparatorV03.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\vnComparatorV03\vnComparatorV03\obj\Debug\vnComparatorV03.exe
+c:\users\admin\documents\visual studio 2013\Projects\vnComparatorV03\vnComparatorV03\obj\Debug\vnComparatorV03.pdb
+c:\users\admin\documents\visual studio 2013\Projects\vnComparatorV03\vnComparatorV03\obj\Debug\vnComparatorV03.Tokenize.resources

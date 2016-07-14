@@ -1,0 +1,8 @@
+<doc>
+	<s>
+		<w pos="N">thành_phố</w>
+		<w pos="P">này</w>
+		<w pos="R">không</w>
+		<w pos="A">rộng</w>
+	</s>
+</doc>

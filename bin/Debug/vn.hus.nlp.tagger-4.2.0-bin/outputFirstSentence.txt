@@ -1,0 +1,12 @@
+<doc>
+	<s>
+		<w pos="N">thành_phố</w>
+		<w pos="A">)</w>
+		<w pos="P">này</w>
+		<w pos="A">bé</w>
+		<w pos="R">quá</w>
+		<w pos=".">.</w>
+		<w pos=",">,</w>
+		<w pos="X">/</w>
+	</s>
+</doc>
